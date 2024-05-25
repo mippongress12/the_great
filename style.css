@@ -5,3 +5,11 @@ font-size: 40px;
 img {height: 140px;
     margin: 10px;
 }
+p {
+  color: blue;
+}
+p {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+}
