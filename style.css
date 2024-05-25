@@ -2,14 +2,22 @@ header{
 background color:00D8D8;
 font-size: 40px;
 }
-img {height: 140px;
+img {
+    height: 140px;
     margin: 10px;
 }
-p {
-  color: blue;
-}
+
 p {
   color: red;
   width: 500px;
   border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+justify-content: center;
+    pading:left
+    pading:right
+    pading:up
+    pading:bottom
 }
+.left-image {
+    
